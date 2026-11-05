@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4776E6&height=220&section=header&text=Piyushraj%20Mishra&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+PostgreSQL;Building+AI-Powered+Applications;Learning+and+Building+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+PostgreSQL;Spring+AI+%7C+Generative+AI;Building+AI-Powered+Applications" />
 
 </div>
 
@@ -21,35 +21,52 @@ Hello! I'm **Piyushraj Mishra**, a B.Tech Information Technology student passion
 
 ## 🛠️ Technical Skills
 
-**Languages**
+### 💻 Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend Development**
+### ⚙️ Backend Development
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring IoC](https://img.shields.io/badge/Spring_IoC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-**Frontend Development**
+### 🎨 Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Database & DevOps**
+### 🗄️ Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### 🔧 Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🛒 ShopSphere AI
+
 **AI-Powered E-Commerce Platform**
 
 - Intelligent product recommendations.
@@ -58,13 +75,14 @@ Hello! I'm **Piyushraj Mishra**, a B.Tech Information Technology student passion
 - Secure authentication and order management.
 - Integrated AI capabilities using Groq.
 
-**Tech Stack:** Java, Spring Boot, React, PostgreSQL, Spring AI.
+**Tech Stack:** Java, Spring Boot, React, PostgreSQL, Spring AI, Groq.
 
 [🔗 Frontend Repository](https://github.com/piyush2601raj/shopsphere-frontend) | [Backend Repository](https://github.com/piyush2601raj/shopsphere-backend)
 
 ---
 
 ### 🤖 AI Mentor Platform
+
 **Personalized AI Learning Platform**
 
 - AI-based skill assessment.
@@ -80,6 +98,7 @@ Hello! I'm **Piyushraj Mishra**, a B.Tech Information Technology student passion
 ---
 
 ### 📄 AI Resume Analyzer
+
 **Intelligent Resume Analysis System**
 
 - ATS score analysis.
@@ -118,6 +137,8 @@ Hello! I'm **Piyushraj Mishra**, a B.Tech Information Technology student passion
 </a>
 
 </div>
+
+---
 
 <div align="center">
 
